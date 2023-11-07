@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2dR_XPaYvR2aOmlzzbiXfu&ust=1699446335954000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjY9YfxsYIDFQAAAAAdAAAAABAE)]
 <h1 align="center">Hey 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate app and web developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png">
 
 <p align="left"> <img src="" alt="emanuelet123" /> </p>
 
