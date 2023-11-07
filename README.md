@@ -1,8 +1,5 @@
 <h1 align="center">Hey 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate mobile and web developer from Brazil</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
-
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/94812724?v=4" alt="emanuelet123" /> </p>
 
 - 🌱 I’m currently perfecting *HTML, CSS and JS*
 
