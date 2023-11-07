@@ -1,4 +1,3 @@
-[![MasterHead](https://media.gcflearnfree.org/content/5e31ca08bc7eff08e4063776_01_29_2020/ProgrammingIllustration.png)]
 <h1 align="center">Hey 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate app and web developer from Brazil</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/Ry6p.gif">
