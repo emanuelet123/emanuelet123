@@ -1,4 +1,4 @@
-<h1 align="center">Welcome😊😁, I'm Emanuel</h1>
+<h1 align="center">Welcome😁, I'm Emanuel</h1>
 <h3 align="center">A passionate mobile and web developer from Brazil</h3>
 
 - 🌱 I’m currently perfecting *HTML, CSS and JS*
