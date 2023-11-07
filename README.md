@@ -1,7 +1,9 @@
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hey 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate app and web developer from Brazil</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelet123&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelet123" /> </p>
+<p align="left"> <img src="" alt="emanuelet123" /> </p>
 
 - 🌱 I’m currently perfecting *HTML, CSS and JS*
 
