@@ -1,4 +1,4 @@
-###<h1 align="center">Hey 👋, I'm Emanuel</h1>
+<h1 align="center">Hey 👋, I'm Emanuel</h1>
 <h3 align="center">A passionate app and web developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emanuelet123&label=Profile%20views&color=0e75b6&style=flat" alt="emanuelet123" /> </p>
